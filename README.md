@@ -26,4 +26,4 @@ The Simple Calculator Web App is a straightforward, web-based calculator built u
 Users can interact with the calculator by clicking on numeric buttons, arithmetic operator buttons, the clear button, and the equals button. The calculator's display updates dynamically as users input numbers and operators, ensuring a seamless and efficient calculation experience.
 
 ## License 
-This project is licensed under the MIT License - see the [LICENSE]("") file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/a0m4a0n3/Calculator_Project/blob/main/LICENSE) file for details.
